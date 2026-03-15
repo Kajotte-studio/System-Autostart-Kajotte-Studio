@@ -4,6 +4,7 @@ System Autostart Kajotte Studio - Python program
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-green.svg)
+<img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
 **Autostart System Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
@@ -32,6 +33,7 @@ For detailed technical information, please visit:
 ![Wersja Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platforma](https://img.shields.io/badge/platforma-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-aktywny%20rozwój-green.svg)
+<img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
 **System Autostart Kajotte Studio** to autorskie rozwiązanie programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
 
@@ -53,4 +55,3 @@ Projekt wykorzystuje szereg kluczowych bibliotek:
 ## 📖 Dokumentacja
 Pełna dokumentacja techniczna znajduje się pod adresem:
 👉 [kajotte-studio.com/index_saks_pl.html](https://kajotte-studio.com/index_saks_pl.html)
-<img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
