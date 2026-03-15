@@ -53,3 +53,4 @@ Projekt wykorzystuje szereg kluczowych bibliotek:
 ## 📖 Dokumentacja
 Pełna dokumentacja techniczna znajduje się pod adresem:
 👉 [kajotte-studio.com/index_saks_pl.html](https://kajotte-studio.com/index_saks_pl.html)
+<img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
