@@ -10,7 +10,7 @@ System Autostart Kajotte Studio - Python program
 **System Autostart Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
 ## &#128209; SAKS Versions
-- [x] PoC
+- [x] PoC / Proof of Concept
 - [x] Alpha / v0.1.0-alpha
 - [x] Internal / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
