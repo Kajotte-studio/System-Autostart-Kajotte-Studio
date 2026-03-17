@@ -5,7 +5,6 @@ System Autostart Kajotte Studio - Python program
 * **Compatibility:** Optimized for Python 3.9+.
 * **Structure:** Clean, PEP 8 compliant code designed for scalability.
 
-# Language
 [English Version](#en) | [Wersja Polska](#pl)
 
 <a name="en"></a>
