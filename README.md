@@ -5,6 +5,10 @@ System Autostart Kajotte Studio - Python program
 * **Compatibility:** Optimized for Python 3.9+.
 * **Structure:** Clean, PEP 8 compliant code designed for scalability.
 
+This program is released under the GNU GPLv3 license.
+All modified versions must clearly state that they are forks of "Kajotte Studio".
+The name "Kajotte Studio" may not be removed from the program’s attribution notices.
+
 [English Version](#en) | [Wersja Polska](#pl)
 
 <a name="en"></a>
@@ -41,6 +45,20 @@ The project utilizes several key libraries:
 * **Development Period:** since 2023
 * **Author:** Kajotte Studio
 * **Official Website:** [kajotte-studio.com](https://kajotte-studio.com)
+
+## &#128394; License
+
+System Autostart Kajotte Studio (SAKS) is distributed under the **GNU GPLv3** license with additional terms (Section 7).
+
+Key points:
+
+- the project is and will remain **free of charge**,
+- any fork or modified version must also be released under **GPLv3**,
+- all modified versions must **clearly state** that they are forks or modified versions of “System Autostart Kajotte Studio”,
+- the name **“Kajotte Studio”** may not be removed from attribution notices or used in a way that suggests a modified version is the original project,
+- the full license text is available in the `LICENSE` file, with additional information in the `COPYING` file.
+
+These rules ensure that the project remains open, transparent, and aligned with the original author’s vision.
 
 ## 📖 Documentation
 For detailed technical information, please visit:
@@ -81,6 +99,20 @@ Projekt wykorzystuje szereg kluczowych bibliotek:
 * **Okres realizacji:** od 2023
 * **Autor:** Kajotte Studio
 * **Strona oficjalna:** [kajotte-studio.com](https://kajotte-studio.com)
+
+## &#128394; Licencja
+
+System Autostart Kajotte Studio (SAKS) jest udostępniany na licencji **GNU GPLv3** wraz z dodatkowymi warunkami (Section 7).
+
+Najważniejsze zasady:
+
+- projekt jest i pozostaje **darmowy**,
+- każdy fork lub zmodyfikowana wersja musi być również udostępniona na **GPLv3**,
+- wszystkie zmodyfikowane wersje muszą **wyraźnie informować**, że są forkami lub modyfikacjami projektu „System Autostart Kajotte Studio”,
+- nazwa **„Kajotte Studio”** nie może być usuwana z informacji o autorstwie ani używana w sposób sugerujący, że zmodyfikowana wersja jest oryginalnym projektem,
+- pełny tekst licencji znajduje się w pliku `LICENSE`, a dodatkowe informacje w pliku `COPYING`.
+
+Dzięki temu projekt pozostaje otwarty, przejrzysty i zgodny z pierwotną wizją autora.
 
 ## 📖 Dokumentacja
 Pełna dokumentacja techniczna znajduje się pod adresem:
