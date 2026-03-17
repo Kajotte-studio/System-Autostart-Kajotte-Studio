@@ -63,11 +63,11 @@ For detailed technical information, please visit:
 * **Autor:** Kajotte Studio
 * **Strona oficjalna:** [kajotte-studio.com](https://kajotte-studio.com)
 
-## 💻 Wymagania i Środowisko
+## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
 * **System operacyjny:** Projektowany i testowany na systemie **Windows 10**.
 
-### 📦 Wymagane Moduły
+### 📦 Wymagane moduły
 Projekt wykorzystuje szereg kluczowych bibliotek:
 * **Biblioteki standardowe:** `tkinter` (interfejs graficzny), `math` (funkcje matematyczne).
 * **Biblioteki zewnętrzne:** `psutil` (monitorowanie systemu i procesów), `win32gui` (zarządzanie oknami Windows) oraz wiele innych.
