@@ -1,6 +1,9 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Kajotte-studio)
 # System Autostart Kajotte Studio (SAKS)
 System Autostart Kajotte Studio - Python program
+### Python Engineering
+* **Compatibility:** Optimized for Python 3.9+.
+* **Structure:** Clean, PEP 8 compliant code designed for scalability.
 
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
