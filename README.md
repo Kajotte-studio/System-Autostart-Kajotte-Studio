@@ -12,6 +12,8 @@ System Autostart Kajotte Studio - Python program
 
 **System Autostart Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
+**Project started on:** January 14, 2023
+
 ## &#128209; SAKS Versions
 - [x] PoC / Proof of Concept
 - [x] Alpha / v0.1.0-alpha
@@ -19,12 +21,6 @@ System Autostart Kajotte Studio - Python program
 - [ ] Beta / v0.2.0-beta
 - [ ] Development / v0.3.0-dev
 - [ ] Stable / v1.0-stable
-
-## 📊 Project Info
-* **Status:** Active Development
-* **Development Period:** since 2023
-* **Author:** Kajotte Studio
-* **Official Website:** [kajotte-studio.com](https://kajotte-studio.com)
 
 ## 💻 Requirements & Environment
 * **Python Version:** 3.9 or higher
@@ -34,6 +30,12 @@ System Autostart Kajotte Studio - Python program
 The project utilizes several key libraries:
 * **Standard Libraries:** `tkinter` (GUI), `math` (mathematical functions).
 * **External Libraries:** `psutil` (system and process monitoring), `win32gui` (Windows API via pywin32) and many others.
+
+## 📊 Project Info
+* **Status:** Active Development
+* **Development Period:** since 2023
+* **Author:** Kajotte Studio
+* **Official Website:** [kajotte-studio.com](https://kajotte-studio.com)
 
 ## 📖 Documentation
 For detailed technical information, please visit:
@@ -49,6 +51,8 @@ For detailed technical information, please visit:
 
 **System Autostart Kajotte Studio** to autorskie rozwiązanie programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
 
+**Rozpoczęcie prac nad projektem:** 14 stycznia 2023
+
 ## &#128209; Wersje SAKS
 - [x] PoC
 - [x] Alpha / v0.1.0-alpha
@@ -56,12 +60,6 @@ For detailed technical information, please visit:
 - [ ] Beta / v0.2.0-beta
 - [ ] Development / v0.3.0-dev
 - [ ] Stabilny / v1.0-stable
-
-## 📊 Informacje o projekcie
-* **Status:** Aktywny rozwój
-* **Okres realizacji:** od 2023
-* **Autor:** Kajotte Studio
-* **Strona oficjalna:** [kajotte-studio.com](https://kajotte-studio.com)
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
@@ -71,6 +69,12 @@ For detailed technical information, please visit:
 Projekt wykorzystuje szereg kluczowych bibliotek:
 * **Biblioteki standardowe:** `tkinter` (interfejs graficzny), `math` (funkcje matematyczne).
 * **Biblioteki zewnętrzne:** `psutil` (monitorowanie systemu i procesów), `win32gui` (zarządzanie oknami Windows) oraz wiele innych.
+
+## 📊 Informacje o projekcie
+* **Status:** Aktywny rozwój
+* **Okres realizacji:** od 2023
+* **Autor:** Kajotte Studio
+* **Strona oficjalna:** [kajotte-studio.com](https://kajotte-studio.com)
 
 ## 📖 Dokumentacja
 Pełna dokumentacja techniczna znajduje się pod adresem:
