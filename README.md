@@ -5,22 +5,28 @@ System Autostart Kajotte Studio - Python program
 * **Compatibility:** Optimized for Python 3.9+.
 * **Structure:** Clean, PEP 8 compliant code designed for scalability.
 
+# Language
+[English Version](#en) | [Wersja Polska](#pl)
+
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-green.svg)
 <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
+<a name="en"></a>
 **System Autostart Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
 **Project started on:** January 14, 2023
 
-## &#128209; SAKS Versions
+## &#128209; SAKS[^1] Versions
 - [x] PoC / Proof of Concept
 - [x] Alpha / v0.1.0-alpha
 - [x] Internal / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
 - [ ] Development / v0.3.0-dev
 - [ ] Stable / v1.0-stable
+
+[^1]: System Autostart Kajotte Studio
 
 ## 💻 Requirements & Environment
 * **Python Version:** 3.9 or higher
@@ -42,6 +48,7 @@ For detailed technical information, please visit:
 👉 [kajotte-studio.com/index_saks_en.html](https://kajotte-studio.com/index_saks_en.html)
 <hr>
 
+<a name="pl"></a>
 # POLSKA WERSJA
 
 ![Wersja Python](https://img.shields.io/badge/python-3.9-blue.svg)
@@ -53,7 +60,7 @@ For detailed technical information, please visit:
 
 **Rozpoczęcie prac nad projektem:** 14 stycznia 2023
 
-## &#128209; Wersje SAKS
+## &#128209; Wersje SAKS[^1]
 - [x] PoC
 - [x] Alpha / v0.1.0-alpha
 - [x] Wewnętrzny / v1.0.0-internal
