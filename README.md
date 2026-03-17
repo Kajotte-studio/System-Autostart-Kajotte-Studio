@@ -14,7 +14,7 @@ System Autostart Kajotte Studio - Python program
 - [x] Alpha / v0.1.0-alpha
 - [x] Internal / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
-- [ ] Development / v0.3.0-dec
+- [ ] Development / v0.3.0-dev
 - [ ] Stable / v1.0-stable
 
 ## 📊 Project Info
@@ -51,7 +51,7 @@ For detailed technical information, please visit:
 - [x] Alpha / v0.1.0-alpha
 - [x] Wewnętrzny / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
-- [ ] Development / v0.3.0-dec
+- [ ] Development / v0.3.0-dev
 - [ ] Stabilny / v1.0-stable
 
 ## 📊 Informacje o projekcie
