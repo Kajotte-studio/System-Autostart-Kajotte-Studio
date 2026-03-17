@@ -1,34 +1,30 @@
-GPLv3 License
-Copyright (c) Kajotte-Studio
+System autostart Kajotte Studio
+Copyright (C) 2024–2026  Kajotte Studio
 
----------------------------------------[EN]
-SAKS – System Autostart Kajotte Studio
-
-This program is free software: you can redistribute it and/or modify it
-under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License,
-or (at your option) any later version.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License version 3 (GPLv3)
+as published by the Free Software Foundation.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-You can find a copy of the GPLv3 license at:
-https://www.gnu.org/licenses/gpl-3.0.html
+Additional Terms (GPLv3 Section 7):
 
----------------------------------------[PL]
-SAKS – System Autostart Kajotte Studio
+1. Attribution Requirement:
+   All modified versions must clearly state that they are forks or
+   modified versions of "System autostart Kajotte Studio".
 
-Niniejszy program jest wolnym oprogramowaniem: możesz go rozpowszechniać dalej
-i/lub modyfikować na warunkach Powszechnej Licencji Publicznej GNU,
-wydanej przez Fundację Wolnego Oprogramowania, w wersji 3 lub (według Twojego wyboru)
-dowolnej późniejszej.
+2. Name Protection:
+   The name "Kajotte Studio" may not be removed from attribution notices
+   or replaced in a way that suggests the modified version is the
+   original work, unless explicit permission is granted by the original
+   author.
 
-Program ten rozpowszechniany jest z nadzieją, że będzie użyteczny,
-ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji
-PRZYDATNOŚCI HANDLOWEJ albo PRZYDATNOŚCI DO OKREŚLONEGO CELU.
-Szczegóły znajdziesz w Powszechnej Licencji Publicznej GNU.
+3. Free Availability:
+   Any redistributed modified version must remain available to users
+   at no monetary cost, matching the original intent of free access.
 
-Kopię licencji GPLv3 możesz znaleźć pod adresem:
-https://www.gnu.org/licenses/gpl-3.0.html
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
