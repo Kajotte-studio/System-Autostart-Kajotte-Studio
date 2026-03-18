@@ -27,7 +27,7 @@ The name "Kajotte Studio" may not be removed from the program’s attribution no
 - [x] Internal / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
 - [ ] Development / v0.3.0-dev
-- [ ] Stable / v1.0-stable
+- [ ] Stable / v1.0-stable <sub>[ Ready to download ]</sub>
 
 [^1]: System Autostart Kajotte Studio
 
@@ -83,7 +83,7 @@ The download version will appear here:
 - [x] Wewnętrzny / v1.0.0-internal
 - [ ] Beta / v0.2.0-beta
 - [ ] Development / v0.3.0-dev
-- [ ] Stabilny / v1.0-stable
+- [ ] Stabilny / v1.0-stable <sub>[ Gotowa do pobierania ]</sub>
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
