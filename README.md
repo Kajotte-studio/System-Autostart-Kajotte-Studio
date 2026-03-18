@@ -60,8 +60,8 @@ Key points:
 
 These rules ensure that the project remains open, transparent, and aligned with the original author’s vision.
 
-## 📖 Documentation
-For detailed technical information, please visit:
+## 📖 SAKS[^1] Download
+The download version will appear here:
 👉 [kajotte-studio.com/index_saks_en.html](https://kajotte-studio.com/index_saks_en.html)
 <hr>
 
@@ -114,6 +114,6 @@ Najważniejsze zasady:
 
 Dzięki temu projekt pozostaje otwarty, przejrzysty i zgodny z pierwotną wizją autora.
 
-## 📖 Dokumentacja
-Pełna dokumentacja techniczna znajduje się pod adresem:
+## 📖 SAKS[^1] Pobierz
+Tu pojawi się wersja do pobrania:
 👉 [kajotte-studio.com/index_saks_pl.html](https://kajotte-studio.com/index_saks_pl.html)
