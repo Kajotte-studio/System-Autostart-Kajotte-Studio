@@ -11,8 +11,8 @@ System Autostart Kajotte Studio - Python program
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-green.svg)
+[![Kajotte-studio-v2](https://img.shields.io/badge/testing-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_en.html)
 <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
-[![Kajotte-studio-v2](https://img.shields.io/badge/Internal-v8.1.2-orange?style=flat-square)](https://github.com/Kajotte-studio/Kajotte-studio)
 
 **System Autostart Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
@@ -20,11 +20,11 @@ System Autostart Kajotte Studio - Python program
 
 ## &#128209; SAKS[^1] Versions
 - [x] PoC / Proof of Concept
-- [x] Alpha / v0.1.0-alpha
-- [x] Internal / v1.0.0-internal
-- [ ] Beta / v0.2.0-beta
-- [ ] Development / v0.3.0-dev
-- [ ] Stable / v1.0-stable <sub>[ Ready to download ]</sub>
+- [x] alpha / v0.0.1
+- [x] testing / v0.1.0
+- [ ] beta / v0.0.2
+- [ ] testing / v0.2.0
+- [ ] stable / v1.0 <sub>[ Ready to download ]</sub>
 
 [^1]: System Autostart Kajotte Studio
 
@@ -68,6 +68,7 @@ The download version will appear here:
 ![Wersja Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platforma](https://img.shields.io/badge/platforma-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-aktywny%20rozwój-green.svg)
+[![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
 <img src="https://img.shields.io/badge/Licencja-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
 **System Autostart Kajotte Studio** to autorskie rozwiązanie programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
@@ -76,11 +77,11 @@ The download version will appear here:
 
 ## &#128209; Wersje SAKS[^1]
 - [x] PoC
-- [x] Alpha / v0.1.0-alpha
-- [x] Wewnętrzny / v1.0.0-internal
-- [ ] Beta / v0.2.0-beta
-- [ ] Development / v0.3.0-dev
-- [ ] Stabilny / v1.0-stable <sub>[ Gotowa do pobierania ]</sub>
+- [x] alpha / v0.0.1
+- [x] testy / v0.1.0
+- [ ] Beta / v0.0.2
+- [ ] testy / v0.2.0
+- [ ] Stabilny / v1.0 <sub>[ Gotowa do pobierania ]</sub>
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
