@@ -79,9 +79,9 @@ The download version will appear here:
 - [x] PoC
 - [x] alpha / v0.0.1
 - [x] testy / v0.1.0
-- [ ] Beta / v0.0.2
+- [ ] beta / v0.0.2
 - [ ] testy / v0.2.0
-- [ ] Stabilny / v1.0 <sub>[ Gotowa do pobierania ]</sub>
+- [ ] stabilny / v1.0 <sub>[ Gotowa do pobierania ]</sub>
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
