@@ -1,3 +1,3 @@
 # SAKS - System Autostart Kajotte Studio
 # Lista zależności (dependencies)
-# Na etapie Beta v0.0.2 używamy standardowych bibliotek.
+# Na etapie Beta v0.0.2 używamy standardowych bibliotek. 
