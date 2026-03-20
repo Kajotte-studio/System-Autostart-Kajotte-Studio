@@ -1,6 +1,8 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
+
+---
+
 # System Autostart Kajotte Studio (SAKS)
-**System Autostart Kajotte Studio - Python program**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kajotte-studio/System-Autostart-Kajotte-Studio?color=blue)
 ![Top Language](https://img.shields.io/github/languages/top/Kajotte-studio/System-Autostart-Kajotte-Studio?color=blue)
