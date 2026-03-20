@@ -14,7 +14,7 @@ System Autostart Kajotte Studio - Python program
 [![Kajotte-studio-v2](https://img.shields.io/badge/testing-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_en.html)
 <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
-**System Autostart Kajotte Studio** is a proprietary software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
+**System Autostart Kajotte Studio** is a open-source software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
 
 **Project started on:** January 14, 2023
 
@@ -45,7 +45,7 @@ The project utilizes several key libraries:
 
 ## &#128394; License
 
-System Autostart Kajotte Studio (SAKS) is distributed under the **GNU GPLv3** license with additional terms (Section 7).
+System Autostart Kajotte Studio (SAKS) is distributed under the **GNU GPLv3** license.
 
 Key points:
 
@@ -53,7 +53,7 @@ Key points:
 - any fork or modified version must also be released under **GPLv3**,
 - all modified versions must **clearly state** that they are forks or modified versions of “System Autostart Kajotte Studio”,
 - the name **“Kajotte Studio”** may not be removed from attribution notices or used in a way that suggests a modified version is the original project,
-- the full license text is available in the `LICENSE` file, with additional information in the `COPYING` file.
+- the full license text is available in the `LICENSE` file.
 
 These rules ensure that the project remains open, transparent, and aligned with the original author’s vision.
 
@@ -71,7 +71,7 @@ The download version will appear here:
 [![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
 <img src="https://img.shields.io/badge/Licencja-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
-**System Autostart Kajotte Studio** to autorskie rozwiązanie programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
+**System Autostart Kajotte Studio** to autorskie rozwiązanie open-source programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
 
 **Rozpoczęcie prac nad projektem:** 14 stycznia 2023
 
@@ -100,7 +100,7 @@ Projekt wykorzystuje szereg kluczowych bibliotek:
 
 ## &#128394; Licencja
 
-System Autostart Kajotte Studio (SAKS) jest udostępniany na licencji **GNU GPLv3** wraz z dodatkowymi warunkami (Section 7).
+System Autostart Kajotte Studio (SAKS) jest udostępniany na licencji **GNU GPLv3**.
 
 Najważniejsze zasady:
 
@@ -108,7 +108,7 @@ Najważniejsze zasady:
 - każdy fork lub zmodyfikowana wersja musi być również udostępniona na **GPLv3**,
 - wszystkie zmodyfikowane wersje muszą **wyraźnie informować**, że są forkami lub modyfikacjami projektu „System Autostart Kajotte Studio”,
 - nazwa **„Kajotte Studio”** nie może być usuwana z informacji o autorstwie ani używana w sposób sugerujący, że zmodyfikowana wersja jest oryginalnym projektem,
-- pełny tekst licencji znajduje się w pliku `LICENSE`, a dodatkowe informacje w pliku `COPYING`.
+- pełny tekst licencji znajduje się w pliku `LICENSE`.
 
 Dzięki temu projekt pozostaje otwarty, przejrzysty i zgodny z pierwotną wizją autora.
 
