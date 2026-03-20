@@ -5,4 +5,6 @@ updates:
     directory: "/saks_beta"  # Ścieżka do SAKS
     schedule:
       interval: "weekly"     # Sprawdzaj aktualizacje raz w tygodniu
-    open-pull-requests-limit: 5 # Nie otwieraj więcej niż 5 zgłoszeń naraz
+      day: "monday"
+    open-pull-requests-limit: 10
+    target-branch: "main"
