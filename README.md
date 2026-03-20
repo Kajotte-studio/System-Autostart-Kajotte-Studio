@@ -14,7 +14,14 @@ System Autostart Kajotte Studio - Python program
 [![Kajotte-studio-v2](https://img.shields.io/badge/testing-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_en.html)
 <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
-**System Autostart Kajotte Studio** is a open-source software solution developed in Python, designed to optimize system startup processes and enhance data security through automation.
+#### 🇬🇧 English Version
+**System Autostart Kajotte Studio (SAKS)** is an original, versatile **open-source ecosystem** written in Python. It is a compact yet powerful multitool that pushes the boundaries of a standard script, merging system optimization with practical everyday automation.
+
+The project serves as an advanced **digital workshop** where programming logic meets utility. SAKS integrates a series of independent modules:
+* **Media & Data Automation:** From QR code generation to intelligent speech synthesis (Text-to-MP3).
+* **Computational Engineering:** Comprehensive mathematical calculators and precise unit converters.
+* **System Analytics:** Continuous process monitoring and detailed activity reporting.
+* **Educational Philosophy:** Clean, PEP 8 compliant code designed as a foundation for learning practical Python library applications.
 
 **Project started on:** January 14, 2023
 
@@ -63,7 +70,7 @@ The download version will appear here:
 <hr>
 
 <a name="pl"></a>
-# POLSKA WERSJA
+# 🇵🇱 POLSKA WERSJA
 
 ![Wersja Python](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Platforma](https://img.shields.io/badge/platforma-Windows%2010-lightgrey.svg)
@@ -71,7 +78,13 @@ The download version will appear here:
 [![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
 <img src="https://img.shields.io/badge/Licencja-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
-**System Autostart Kajotte Studio** to autorskie rozwiązanie open-source napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
+**System Autostart Kajotte Studio (SAKS)** to autorski, wszechstronny **ekosystem open-source** napisany w Pythonie. To kompaktowy, ale potężny multitool, który przekracza granice zwykłego skryptu, łącząc optymalizację systemową z praktyczną automatyzacją codziennych zadań.
+
+Projekt stanowi zaawansowany **cyfrowy warsztat**, w którym logika programowania spotyka się z użytecznością. SAKS integruje w sobie szereg niezależnych modułów:
+* **Automatyzacja mediów i danych:** Od generowania kodów QR po inteligentną syntezę mowy (Text-to-MP3).
+* **Inżynieria obliczeniowa:** Rozbudowane kalkulatory matematyczne oraz precyzyjne przeliczniki jednostek.
+* **Analityka systemowa:** Ciągły monitoring procesów oraz generowanie szczegółowych raportów aktywności.
+* **Filozofia edukacyjna:** Czysty kod (PEP 8) zaprojektowany jako fundament do nauki praktycznego zastosowania bibliotek Pythona.
 
 **Rozpoczęcie prac nad projektem:** 14 stycznia 2023
 
