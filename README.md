@@ -1,14 +1,25 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
 # System Autostart Kajotte Studio (SAKS)
 **System Autostart Kajotte Studio - Python program**
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Kajotte-studio/System-Autostart-Kajotte-Studio?color=blue)
+![Top Language](https://img.shields.io/github/languages/top/Kajotte-studio/System-Autostart-Kajotte-Studio?color=blue)
+![Maintained](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Kajotte-studio/System-Autostart-Kajotte-Studio?color=orange)
+
 ### Python Engineering
 * **Compatibility:** Optimized for Python 3.9+.
 * **Structure:** Clean, PEP 8 compliant code designed for scalability.
 
+![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)
+[![CodeQL](https://github.com/Kajotte-studio/System-Autostart-Kajotte-Studio/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Kajotte-studio/System-Autostart-Kajotte-Studio/actions/workflows/github-code-scanning/codeql)
+
+---
+
 [English Version](#en) | [Wersja Polska](#pl)
 
 <a name="en"></a>
-![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-green.svg)
 [![Kajotte-studio-v2](https://img.shields.io/badge/testing-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_en.html)
@@ -81,7 +92,7 @@ For additional information on the toolkit’s capabilities and descriptions of s
 <a name="pl"></a>
 # 🇵🇱 POLSKA WERSJA
 
-![Wersja Python](https://img.shields.io/badge/python-3.9-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white)
 ![Platforma](https://img.shields.io/badge/platforma-Windows%2010-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-aktywny%20rozwój-green.svg)
 [![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
