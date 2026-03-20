@@ -71,7 +71,7 @@ The download version will appear here:
 [![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
 <img src="https://img.shields.io/badge/Licencja-GPLv3-black?style=flat-square" alt="GPLv3 License" />
 
-**System Autostart Kajotte Studio** to autorskie rozwiązanie open-source programistyczne napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
+**System Autostart Kajotte Studio** to autorskie rozwiązanie open-source napisane w języku Python. Program służy do optymalizacji procesów startowych systemu oraz zwiększenia bezpieczeństwa danych poprzez zaawansowaną automatyzację.
 
 **Rozpoczęcie prac nad projektem:** 14 stycznia 2023
 
