@@ -1,6 +1,6 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
 # System Autostart Kajotte Studio (SAKS)
-System Autostart Kajotte Studio - Python program
+**System Autostart Kajotte Studio - Python program**
 ### Python Engineering
 * **Compatibility:** Optimized for Python 3.9+.
 * **Structure:** Clean, PEP 8 compliant code designed for scalability.
@@ -52,22 +52,25 @@ The project utilizes several key libraries:
 
 ## &#128394; License
 
-System Autostart Kajotte Studio (SAKS) is distributed under the **GNU GPLv3** license.
+**System Autostart Kajotte Studio (SAKS)** is distributed under the **GNU GPLv3** license.
 
-Key points:
+### Key points:
 
 - the project is and will remain **free of charge**,
 - any fork or modified version must also be released under **GPLv3**,
-- all modified versions must **clearly state** that they are forks or modified versions of “System Autostart Kajotte Studio”,
+- all modified versions must **clearly state** that they are forks or modified versions of **“System Autostart Kajotte Studio”**,
 - the name **“Kajotte Studio”** may not be removed from attribution notices or used in a way that suggests a modified version is the original project,
 - the full license text is available in the `LICENSE` file.
 
 These rules ensure that the project remains open, transparent, and aligned with the original author’s vision.
 
-## &#9196; SAKS[^1] Download
-The download version will appear here:
+### 🌐 More about SAKS[^1]
+
+For additional information on the toolkit’s capabilities and descriptions of specific modules not covered in this document, please visit the official project website:
+
 👉 [kajotte-studio.com/index_saks_en.html](https://kajotte-studio.com/index_saks_en.html)
-<hr>
+
+---
 
 <a name="pl"></a>
 # 🇵🇱 POLSKA WERSJA
@@ -113,18 +116,20 @@ Projekt wykorzystuje szereg kluczowych bibliotek:
 
 ## &#128394; Licencja
 
-System Autostart Kajotte Studio (SAKS) jest udostępniany na licencji **GNU GPLv3**.
+**System Autostart Kajotte Studio (SAKS)** jest udostępniany na licencji **GNU GPLv3**.
 
-Najważniejsze zasady:
+### Najważniejsze zasady:
 
 - projekt jest i pozostaje **darmowy**,
 - każdy fork lub zmodyfikowana wersja musi być również udostępniona na **GPLv3**,
-- wszystkie zmodyfikowane wersje muszą **wyraźnie informować**, że są forkami lub modyfikacjami projektu „System Autostart Kajotte Studio”,
+- wszystkie zmodyfikowane wersje muszą **wyraźnie informować**, że są forkami lub modyfikacjami projektu **„System Autostart Kajotte Studio”**,
 - nazwa **„Kajotte Studio”** nie może być usuwana z informacji o autorstwie ani używana w sposób sugerujący, że zmodyfikowana wersja jest oryginalnym projektem,
 - pełny tekst licencji znajduje się w pliku `LICENSE`.
 
 Dzięki temu projekt pozostaje otwarty, przejrzysty i zgodny z pierwotną wizją autora.
 
-## &#9196; SAKS[^1] Pobierz
-Tu pojawi się wersja do pobrania:
+### 🌐 Więcej o SAKS[^1]
+
+Dodatkowe informacje o możliwościach zestawu narzędzi oraz opisy wybranych modułów, których nie ujęto w tym dokumencie, znajdziesz na oficjalnej stronie projektu:
+
 👉 [kajotte-studio.com/index_saks_pl.html](https://kajotte-studio.com/index_saks_pl.html)
