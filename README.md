@@ -33,13 +33,19 @@ The project serves as an advanced **digital workshop** where programming logic m
 - [ ] testing / v0.2.0
 - [ ] stable / v1.0 <sub>[ Ready to download ]</sub>
 
+#### What do these stages mean:
+
+* **Alpha (v0.0.1):** Completed project in an internal version. All code is written according to requirements but has not yet been publicly released.
+* **Beta (v0.0.2):** Version prepared for publication. This stage follows final testing and aims to confirm stability before the official launch.
+* **✅ Stable (v1.0):** The official, fully verified release, ready for download and daily use.
+
 [^1]: System Autostart Kajotte Studio
 
 ## 💻 Requirements & Environment
 * **Python Version:** 3.9 or higher
 * **Operating System:** Designed and extensively tested on **Windows 10**.
 
-### 📦 Required Modules
+### Required Modules
 The project utilizes several key libraries:
 * **Standard Libraries:** `tkinter` (GUI), `math` (mathematical functions).
 * **External Libraries:** `psutil` (system and process monitoring), `win32gui` (Windows API via pywin32) and many others.
@@ -97,13 +103,19 @@ Projekt stanowi zaawansowany **cyfrowy warsztat**, w którym logika programowani
 - [x] testy / v0.1.0
 - [ ] beta / v0.0.2
 - [ ] testy / v0.2.0
-- [ ] stabilny / v1.0 <sub>[ Gotowa do pobierania ]</sub>
+- [ ] stabilna / v1.0 <sub>[ Gotowa do pobierania ]</sub>
+
+#### Co oznaczają poszczególne etapy:
+
+* **Alpha (v0.0.1):** Gotowy projekt w wersji wewnętrznej. Cały kod został napisany zgodnie z założeniami, ale nie był jeszcze publikowany szerokiemu gronu odbiorców.
+* **Beta (v0.0.2):** Wersja przygotowana do publikacji. To etap po ostatecznych testach, który ma na celu potwierdzenie stabilności przed wydaniem pełnej wersji.
+* **✅ Stabilna (v1.0):** Oficjalne, w pełni sprawdzone wydanie programu, gotowe do pobrania i codziennego użytku.
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
 * **System operacyjny:** Projektowany i testowany na systemie **Windows 10**.
 
-### 📦 Wymagane moduły
+### Wymagane moduły
 Projekt wykorzystuje szereg kluczowych bibliotek:
 * **Biblioteki standardowe:** `tkinter` (interfejs graficzny), `math` (funkcje matematyczne).
 * **Biblioteki zewnętrzne:** `psutil` (monitorowanie systemu i procesów), `win32gui` (zarządzanie oknami Windows) oraz wiele innych.
