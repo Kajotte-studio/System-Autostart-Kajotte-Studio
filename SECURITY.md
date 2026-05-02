@@ -13,7 +13,7 @@ Currently, only the latest version of SAKS is supported for security updates.
 ### Reporting a Vulnerability
 If you discover a security vulnerability, please do not open a public issue. Instead, report it directly to the author.
 
-* **Email:** [support@kajotte-studio.com](mailto:support@kajotte-studio.com)
+* **Email:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 * **Response Time:** You can expect a response within 48 hours.
 
 We appreciate your help in keeping this project secure.
