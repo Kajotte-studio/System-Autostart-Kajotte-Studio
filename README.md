@@ -56,7 +56,6 @@ The project serves as an advanced **digital workshop** where programming logic m
 
 ## 💻 Requirements & Environment
 * **Python Version:** 3.9 or higher
-* **Operating System:** Designed and extensively tested on **Windows 10**.
 
 ### Required Modules
 The project utilizes several key libraries:
@@ -126,7 +125,6 @@ Projekt stanowi zaawansowany **cyfrowy warsztat**, w którym logika programowani
 
 ## 💻 Wymagania i środowisko
 * **Wersja Python:** 3.9 lub nowsza
-* **System operacyjny:** Projektowany i testowany na systemie **Windows 10**.
 
 ### Wymagane moduły
 Projekt wykorzystuje szereg kluczowych bibliotek:
