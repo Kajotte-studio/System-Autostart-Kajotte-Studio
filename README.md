@@ -22,7 +22,7 @@
 
 <a name="en"></a>
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Windows%2010-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-green.svg)
 [![Kajotte-studio-v2](https://img.shields.io/badge/testing-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_en.html)
 <img src="https://img.shields.io/badge/License-GPLv3-black?style=flat-square" alt="GPLv3 License" />
@@ -94,7 +94,7 @@ For additional information on the toolkit’s capabilities and descriptions of s
 # 🇵🇱 POLSKA WERSJA
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white)
-![Platforma](https://img.shields.io/badge/platforma-Windows%2010-lightgrey.svg)
+![Platforma](https://img.shields.io/badge/platforma-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-aktywny%20rozwój-green.svg)
 [![Kajotte-studio-v2](https://img.shields.io/badge/testy-v0.1.8-orange?style=flat-square)](https://kajotte-studio.com/index_saks_pl.html)
 <img src="https://img.shields.io/badge/Licencja-GPLv3-black?style=flat-square" alt="GPLv3 License" />
